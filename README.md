@@ -2,17 +2,17 @@
 
 # Animations
 
-#MoCap
+# MoCap
 
-#Motorica MoGen
+# Motorica MoGen
 
-#Plugins
+# Plugins
 
-#Chracter Trajectory
+# Chracter Trajectory
 
-#Motion DataBase Config
+# Motion DataBase Config
 
-#Motion DataBase
+# Motion DataBase
 
 # Anim Graph
 
