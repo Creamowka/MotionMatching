@@ -1,21 +1,2 @@
 # MotionMatching
-
-# Animations
-
-# MoCap
-
-# Motorica MoGen
-
-# Plugins
-
-# Chracter Trajectory
-
-# Motion DataBase Config
-
-# Motion DataBase
-
-# Anim Graph
-
-# MotionMatching Node
-
-# Pose Search
+Very humble beginnings of working with motionmatching in unreal engine 5.3
